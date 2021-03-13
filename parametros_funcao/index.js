@@ -24,3 +24,11 @@ function outrafuncao(a,b){
     console.log(a+b) // NaN
 }
 outrafuncao(3)
+
+console.log('######');
+
+
+function desestrura({nome, sobrenome, idade}){
+    console.log(nome, sobrenome, idade);
+}
+desestrura({nome:'Roberto', sobrenome:'Fortes', idade:20})
