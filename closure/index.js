@@ -1,5 +1,5 @@
 //Global
-//Habilidade que a função tem de acessar seu escopo lexo
+//Habilidade que a função tem de acessar seu escopo léxico
 
 function retornaFuncao(nome){
     return function(){
