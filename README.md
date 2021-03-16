@@ -14,3 +14,4 @@ JavaScript Funções (Avançado).
 - Funções construtoras(Constructor functions);
 - Funções recursivas;
 - Funções geradoras;
+### Fim.
